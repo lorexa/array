@@ -1,0 +1,15 @@
+{
+  "dateAdded": "2020-01-01T12:00:00.000Z",
+  "clientKey": "test-customer-123",
+  "firstName": "Thomas",
+  "lastName": "Friedman",
+  "dob": "1975-01-01",
+  "address": {
+    "street": "535 30 RD A",
+    "city": "Grand Junction",
+    "state": "CO",
+    "zip": "81504"
+  },
+  "authenticated": true,
+  "authProvider": "tui"
+}
