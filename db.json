@@ -1,9 +1,3 @@
 {
-  "lastName": "Friedman",
-  "address": {
-    "street": "535 30 RD A",
-    "city": "Grand Junction",
-    "state": "CO",
-    "zip": "81504"
-  }
+  "lastName": "Friedman"
 }
